@@ -17,7 +17,7 @@
 <a href="https://github.com/ShaanCoding">📱 Visit this Project</a>
 </p>
  
-<h2 id="colab">🤝 Collaborators</h2>
+<h2 id="colab"> Download crossGlobal</h2>
 
 <p>Get it on the Windows App Store and Linux Snap Store</p>
 <table>
